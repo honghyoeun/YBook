@@ -1,2 +1,1 @@
-YBook Demo Version
-Репозитория твоей подруги!
+YBook Demo Version 
