@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:gravity="center"
-            android:text="YBook"
+            android:text="YBOOK"
             android:textColor="#937DC2"
             android:textSize="60sp"
             android:textStyle="bold" />
